@@ -4,13 +4,14 @@
     margin: 0;
     padding: 0;
     border: none;
-    background-color: #121212;
-    color: 	rgb(255,0,0);
+    /* background-color: #121212;
+    color: 	rgb(255,0,0); */
 }
 
 body {
    font-family: "josefin sans", sans-serif;
    font-weight: 400;
+   background-color: #121212;
    
 }
 
@@ -21,6 +22,7 @@ h1, h2{
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
+    color: rgb(255,0,0);
 }
 
 #logo {
@@ -34,6 +36,7 @@ h1, h2{
 #menu{
     font-size: 110%;
     letter-spacing: 4px;
+    color: rgb(255,0,0);
 }
 
 #menu, #logo {
@@ -48,15 +51,15 @@ h1, h2{
 
 #menu a {
     text-decoration: none;
-    color: ;
+    color:rgb(255,0,0) ;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid; /*#3a3a3a;*/
+    border-bottom: 1px solid rgb(255,0,0);
 }
 
 .active {
-    border-bottom: 1px solid;   /*#3a3a3a*/
+    border-bottom: 1px solid rgb(255,0,0);
 }
 
 /*hero image and cover text */
@@ -67,7 +70,7 @@ h1, h2{
     background: url(../images/heroLfc\ Wallpaper\ Anfield\ Stadium\ Liverpool\ Fc\ PelautsCom.jpg) no-repeat center center;
 }
 #hero-outer {
-    height: 900px;
+    height: 800px;
     width: 100%;
     overflow: hidden;
     
@@ -95,4 +98,33 @@ h1, h2{
     color: black;
     border: 1px solid black;
     
+}
+
+#bimage {
+    background: url(../images/Liverpool-FC-a-4K-HD-Desktop-Wallpaper-for-4K-Ultra-HD-TV-.jpg) no-repeat center center;
+    width: 100%;
+    height: 1080px;
+
+}
+
+/* footer */
+
+footer{
+    height: 1px;
+   
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks > li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 3% 5%;
+    color: rgb(255,0,0);
 }
