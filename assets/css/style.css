@@ -113,8 +113,15 @@ h3 {
     width: 100%;
     height: 1080px;
     /* background-attachment: fixed;   decision for later*/
-
 }
+#bhimage {
+    background: url(../images/Liverpool-FC-a-4K-HD-Desktop-Wallpaper-for-4K-Ultra-HD-TV-.jpg) no-repeat center center;
+    width: 100%;
+    height: 1800px;
+    background-attachment: fixed;
+}
+
+
 
 /* pictures and text content*/
 
@@ -208,12 +215,16 @@ hr {
 .ltop {
     width: 300px;
     display: inline-block;
+    padding-left: 200px;
+    padding-top: 30px;
 }
 
 .rtop {
     width: 300px;
     display: inline-block;
     float: right;
+    padding-right: 200px;
+    padding-top: 30px;
 
 }
 
