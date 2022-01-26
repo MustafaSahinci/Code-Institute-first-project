@@ -184,7 +184,7 @@ hr {
 }
 
 #bottom {
-    height: 600px;
+    height: 560px;
 }
 
 #anfield {
@@ -232,11 +232,21 @@ hr {
 
 }
 
+/* Youtube Video */
 #video {
-    width: 33%;
-    height: 253px;
+    width: 675px;
+    height: 380px;
     display: block;
     margin: 0 auto;
+    padding-top: 100px;
+}
+
+#videot {
+    text-align: center;
+    position: relative;
+    top: 70px;
+}
+
 }
 
 
