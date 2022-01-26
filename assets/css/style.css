@@ -12,12 +12,13 @@ body {
    font-family: "josefin sans", sans-serif;
    font-weight: 400;
    background-color: #121212;
+   color:white
    
 }
 
 /* Heading and logo */
 
-h1, h2{
+h1, h2, h3{
     font-family: sora, sans-serif;
     text-transform: uppercase;
     font-weight: bold;
@@ -77,26 +78,29 @@ h1, h2{
     position: relative;
     }
 
-#cover-text h2{
-    width: 580px;
-    height: 30px;
-    color: white;
-    background-color: rgba(255, 0, 0, .6);
-    border: 10px;
-
-    
-    
-    
+#cover-text{
+    width: 571px;
+    height: 62px;
+    background-color: rgba(0, 0, 0, .1);
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 22px;
+    bottom: 100px;
+    left: 455px;
+    position: absolute;
 }
+
+#cover-text h2{
+    color: rgba(255, 0, 0,);
+}
+
 
 #join{
     border-radius: 2px;
-    padding: 10px;
-    
-    text-align: center;
-    background-color: white;
     color: black;
-    border: 1px solid black;
+    background-color: rgb(255,0,0);
+    border: 2px solid white;
+    text-decoration: none;
     
 }
 
@@ -104,7 +108,45 @@ h1, h2{
     background: url(../images/Liverpool-FC-a-4K-HD-Desktop-Wallpaper-for-4K-Ultra-HD-TV-.jpg) no-repeat center center;
     width: 100%;
     height: 1080px;
+    background-attachment: fixed;
 
+}
+
+#sm {
+    height: 500px;
+    width: 500px;
+}
+
+#ms {
+    height: 500px;
+    width: 500px;
+    float: right;
+}
+
+#info{
+    height: 400px;
+}
+#htext {
+    text-align: center;
+    padding: 140px 0;
+}
+#ltext {
+    width: 33%;
+    float: left;
+}
+#ctext {
+    width: 33%;
+    margin: 0 auto;
+}
+#rtext {
+    width: 33%;
+    float: right;
+}
+
+hr {
+    background-color: rgb(255,0,0);
+    height: 2px;
+    width: 145px;
 }
 
 /* footer */
