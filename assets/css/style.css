@@ -22,7 +22,7 @@ h3 {
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
-    color: rgb(255, 0, 0);
+    color: #990012;
 }
 
 #logo {
@@ -36,7 +36,7 @@ h3 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-    color: rgb(255, 0, 0);
+    color: #990012;
 }
 
 #menu,
@@ -52,19 +52,18 @@ h3 {
 
 #menu a {
     text-decoration: none;
-    color: rgb(255, 0, 0);
+    color: #990012;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid rgb(255, 0, 0);
+    border-bottom: 1px solid #990012;
 }
 
 .active {
-    border-bottom: 1px solid rgb(255, 0, 0);
+    border-bottom: 1px solid #990012);
 }
 
 /*hero image and cover text */
-
 #hero-image {
     width: 100%;
     height: 800px;
@@ -88,25 +87,25 @@ h3 {
     padding-top: 22px;
     bottom: 175px;
     left: 455px;
-    position: absolute;
+    position: sticky;
 }
 
 #cover-text h2 {
-    color: rgba(255, 0, 0, );
+    color: #990012;
 }
 
 
 #join {
     border-radius: 15px;
     color: black;
-    background-color: rgb(255, 0, 0);
+    background-color: #990012;
     border: 2px solid white;
     text-decoration: none;
     font-size: 20px;
     padding: 10px;
 }
 
-#join:hover{
+#join:hover {
     background-color: white;
 }
 
@@ -117,6 +116,7 @@ h3 {
     height: 1080px;
     /* background-attachment: fixed;   decision for later*/
 }
+
 #bhimage {
     background: url(../images/Liverpool-FC-a-4K-HD-Desktop-Wallpaper-for-4K-Ultra-HD-TV-.jpg) no-repeat center center;
     width: 100%;
@@ -171,20 +171,13 @@ h3 {
     text-align: center;
 }
 
-hr {
-    background-color: rgb(255, 0, 0);
-    height: 2px;
-    width: 140px;
-    margin-left: 185px;
-}
-
 /* history pages pictures and text */
 
 #top {
     height: 620px;
 }
 
-#center{
+#center {
     height: 660px;
 }
 
@@ -197,7 +190,7 @@ hr {
     width: 300px;
     float: left;
     padding-bottom: 30px;
-    
+
 }
 
 #thropies {
@@ -257,13 +250,11 @@ hr {
 #form {
     width: 400px;
     height: 400px;
-    /* background-color: rgba(255, 0, 0, .3); */
     position: absolute;
     left: 100px;
     top: 1000px;
-    color: rgb(255, 0, 0);
+    color: #990012;
     font-size: 30px;
-    
 }
 
 .input {
@@ -271,17 +262,17 @@ hr {
     color: white;
     width: 100%;
     height: 30px;
-    margin: 5px 0 20px 0 ;
-    border: 1px solid rgb(255, 0, 0);
+    margin: 5px 0 20px 0;
+    border: 1px solid #990012;
     border-radius: 3px;
 }
 
-.input:hover{
+.input:hover {
     border-color: white;
 }
 
 .button {
-    background-color: rgb(255, 0, 0);
+    background-color: #990012;
     color: black;
     font-size: 30px;
     padding: 10px 20px;
@@ -290,7 +281,7 @@ hr {
     margin-top: 10px;
 }
 
-.button:hover{
+.button:hover {
     background-color: white;
 }
 
@@ -351,6 +342,17 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 3% 5%;
-    color: rgb(255, 0, 0);
+    color: #990012;
 }
 
+/* media queries */
+
+/* for media-queries from 1150px wide and down */
+
+#sm {
+    clear: right;
+}
+
+#ms {
+    clear: left;
+}
