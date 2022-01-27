@@ -280,7 +280,7 @@ hr {
     border-color: white;
 }
 
-#button {
+.button {
     background-color: rgb(255, 0, 0);
     color: black;
     font-size: 30px;
@@ -290,7 +290,7 @@ hr {
     margin-top: 10px;
 }
 
-#button:hover{
+.button:hover{
     background-color: white;
 }
 
@@ -307,6 +307,23 @@ hr {
     width: 400px;
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+/* trial */
+
+#trial {
+    height: 400px;
+    font-size: 150%;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#lbutton {
+    height: 300px;
+    width: 200px;
+    position: relative;
+    left: 695px;
+    top: 200px;
 }
 
 
