@@ -131,12 +131,14 @@ h3 {
 #sm {
     height: 500px;
     width: 500px;
+    padding: 30px 30px;
 }
 
 #ms {
     height: 500px;
     width: 500px;
     float: right;
+    padding: 30px 30px;
 }
 
 #info {
@@ -250,7 +252,7 @@ hr {
     top: 70px;
 }
 
-/* Form */
+/* Form and contact */
 
 #form {
     width: 400px;
@@ -292,6 +294,23 @@ hr {
     background-color: white;
 }
 
+#contact {
+    height: 100px;
+    width: 400px;
+    float: right;
+    padding-top: 100px;
+    padding-right: 100px;
+}
+
+#maps {
+    height: 300px;
+    width: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
 
 
 /* footer */
@@ -317,3 +336,4 @@ footer {
     padding: 3% 5%;
     color: rgb(255, 0, 0);
 }
+
