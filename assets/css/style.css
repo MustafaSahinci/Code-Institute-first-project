@@ -30,6 +30,15 @@ h3 {
     font-size: 250%;
 }
 
+.head {
+    width: 100%;
+    height: 75px;
+    position: fixed;
+    top: 0;
+    background-color: rgba(0, 0, 0, .8);
+    z-index: 1000;
+}
+
 /* nav links */
 .menu {
     font-size: 110%;
@@ -66,6 +75,7 @@ h3 {
     width: 100%;
     height: 800px;
     background: url(../images/heroLfc\ Wallpaper\ Anfield\ Stadium\ Liverpool\ Fc\ PelautsCom.jpg) no-repeat center center;
+    background-position: 0px 75px;
 }
 
 .hero-outer {
@@ -239,10 +249,10 @@ h3 {
 /* Form and contact */
 .form {
     width: 400px;
-    height: 400px;
+    height: 535px;
     position: absolute;
     left: 100px;
-    top: 1000px;
+    top: 880px;
     color: #990012;
     font-size: 30px;
 }
@@ -296,14 +306,6 @@ h3 {
     font-size: 150%;
     text-align: center;
     padding-top: 100px;
-}
-
-.lbutton {
-    height: 300px;
-    width: 200px;
-    position: relative;
-    left: 695px;
-    top: 200px;
 }
 
 /* footer */
