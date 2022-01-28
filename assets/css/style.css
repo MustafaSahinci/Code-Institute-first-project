@@ -25,7 +25,7 @@ h3 {
     color: #990012;
 }
 
-#logo {
+.logo {
     float: left;
     margin-left: 40px;
     font-size: 250%;
@@ -33,29 +33,29 @@ h3 {
 
 /* nav links */
 
-#menu {
+.menu {
     font-size: 110%;
     letter-spacing: 4px;
     color: #990012;
 }
 
-#menu,
-#logo {
+.menu,
+.logo {
     line-height: 75px;
 }
 
-#menu li {
+.menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: #990012;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid #990012;
 }
 
@@ -64,13 +64,13 @@ h3 {
 }
 
 /*hero image and cover text */
-#hero-image {
+.hero-image {
     width: 100%;
     height: 800px;
     background: url(../images/heroLfc\ Wallpaper\ Anfield\ Stadium\ Liverpool\ Fc\ PelautsCom.jpg) no-repeat center center;
 }
 
-#hero-outer {
+.hero-outer {
     height: 800px;
     width: 100%;
     overflow: hidden;
@@ -78,7 +78,7 @@ h3 {
     position: relative;
 }
 
-#cover-text {
+.cover-text {
     width: 571px;
     height: 62px;
     background-color: rgba(0, 0, 0, .1);
@@ -90,12 +90,12 @@ h3 {
     position: sticky;
 }
 
-#cover-text h2 {
+.cover-text h2 {
     color: #990012;
 }
 
 
-#join {
+.join {
     border-radius: 15px;
     color: black;
     background-color: #990012;
@@ -105,19 +105,19 @@ h3 {
     padding: 10px;
 }
 
-#join:hover {
+.join:hover {
     background-color: white;
 }
 
 /* Background image*/
-#bimage {
+.bimage {
     background: url(../images/Liverpool-FC-a-4K-HD-Desktop-Wallpaper-for-4K-Ultra-HD-TV-.jpg) no-repeat center center;
     width: 100%;
     height: 1080px;
     /* background-attachment: fixed;   decision for later*/
 }
 
-#bhimage {
+.bhimage {
     background: url(../images/Liverpool-FC-a-4K-HD-Desktop-Wallpaper-for-4K-Ultra-HD-TV-.jpg) no-repeat center center;
     width: 100%;
     height: 1840px;
@@ -128,43 +128,43 @@ h3 {
 
 /* pictures and text content*/
 
-#sm {
+.sm {
     height: 500px;
     width: 500px;
     padding: 30px 30px;
 }
 
-#ms {
+.ms {
     height: 500px;
     width: 500px;
     float: right;
     padding: 30px 30px;
 }
 
-#info {
+.info {
     height: 400px;
 }
 
-#htext {
+.htext {
     text-align: center;
     padding: 140px 0;
 }
 
-#ltext {
+.ltext {
     width: 33%;
     float: left;
     display: inline-block;
     text-align: center;
 }
 
-#ctext {
+.ctext {
     width: 33%;
     margin: 0 auto;
     display: inline-block;
     text-align: center;
 }
 
-#rtext {
+.rtext {
     width: 33%;
     float: right;
     display: inline-block;
@@ -173,19 +173,19 @@ h3 {
 
 /* history pages pictures and text */
 
-#top {
+.top {
     height: 620px;
 }
 
-#center {
+.center {
     height: 660px;
 }
 
-#bottom {
+.bottom {
     height: 560px;
 }
 
-#anfield {
+.anfield {
     height: 300px;
     width: 300px;
     float: left;
@@ -193,21 +193,21 @@ h3 {
 
 }
 
-#thropies {
+.thropies {
     height: 300px;
     width: 300px;
     float: right;
     padding-bottom: 30px;
 }
 
-#fans {
+.fans {
     height: 300px;
     width: 300px;
     float: left;
     padding-bottom: 30px;
 }
 
-#song {
+.song {
     height: 300px;
     width: 300px;
     float: right;
@@ -231,7 +231,7 @@ h3 {
 }
 
 /* Youtube Video */
-#video {
+.video {
     width: 675px;
     height: 380px;
     display: block;
@@ -239,7 +239,7 @@ h3 {
     padding-top: 100px;
 }
 
-#videot {
+.videot {
     text-align: center;
     position: relative;
     top: 70px;
@@ -247,7 +247,7 @@ h3 {
 
 /* Form and contact */
 
-#form {
+.form {
     width: 400px;
     height: 400px;
     position: absolute;
@@ -285,7 +285,7 @@ h3 {
     background-color: white;
 }
 
-#contact {
+.contact {
     height: 100px;
     width: 400px;
     float: right;
@@ -293,7 +293,7 @@ h3 {
     padding-right: 100px;
 }
 
-#maps {
+.maps {
     height: 300px;
     width: 400px;
     padding-top: 50px;
@@ -302,14 +302,14 @@ h3 {
 
 /* trial */
 
-#trial {
+.trial {
     height: 400px;
     font-size: 150%;
     text-align: center;
     padding-top: 100px;
 }
 
-#lbutton {
+.lbutton {
     height: 300px;
     width: 200px;
     position: relative;
@@ -349,10 +349,10 @@ footer {
 
 /* for media-queries from 1150px wide and down */
 
-#sm {
+.sm {
     clear: right;
 }
 
-#ms {
+.ms {
     clear: left;
 }
