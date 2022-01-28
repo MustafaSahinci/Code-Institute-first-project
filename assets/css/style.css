@@ -498,6 +498,10 @@ footer {
         width: 100%;
     }
 
+    .menu{
+        font-size: 180%;
+    }
+
 }
 
 /* for medium screen sizes from 410px wide and down */
@@ -509,4 +513,6 @@ footer {
     .cover-text{
         font-size: 30%;
     }
+
+
 }
