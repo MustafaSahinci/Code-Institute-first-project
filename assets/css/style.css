@@ -233,6 +233,23 @@ h3 {
     font-size: 130%;
 }
 
+.lcenter {
+    width: 300px;
+    display: inline-block;
+    padding-left: 200px;
+    padding-top: 30px;
+    font-size: 130%;
+}
+
+.rcenter {
+    width: 300px;
+    display: inline-block;
+    float: right;
+    padding-right: 200px;
+    padding-top: 30px;
+    font-size: 130%;
+}
+
 /* Youtube Video */
 .video {
     width: 675px;
@@ -353,6 +370,22 @@ footer {
     .bimage{
         height: 1300px;
     }
+
+    .rtop {
+     padding: 0;
+    }
+    
+    .ltop {
+        padding: 0;
+    }
+
+    .rcenter {
+        padding: 0;
+    }
+
+    .lcenter {
+        padding: 0;
+    }
 }
 /* for small screen sizes from 900px wide and down */
 @media screen and (max-width: 900px) {
@@ -365,7 +398,6 @@ footer {
     max-width: 100%;
     height: 1400px;
 }
-
 
 .menu {
     clear: left;
@@ -410,6 +442,10 @@ footer {
     width: 100%;
 }
 
+.video {
+    width: 100%;
+}
+
 }
 
 /* for medium screen sizes from 600px wide and down */
@@ -417,6 +453,51 @@ footer {
     .head{
         font-size: 67%;
     }
+
+    .bhimage {
+        height: 2700px;
+    }
+
+    .top {
+        height: 900px;
+    }
+    .center {
+        height: 1250px;
+    }
+
+    .thropies{
+        width: 100%;
+        padding-top: 20px;
+    }
+    
+    .anfield{
+        width: 100%;
+    }
+    
+    .fans {
+        width: 100%;
+    }
+    .song {
+        width: 100%;
+        padding-top: 20px;
+    }
+
+    .ltop {
+        width: 100%;
+    }
+
+    .rtop {
+        width: 100%;
+    }
+
+    .lcenter {
+        width: 100%;
+    }
+
+    .rcenter {
+        width: 100%;
+    }
+
 }
 
 /* for medium screen sizes from 410px wide and down */
