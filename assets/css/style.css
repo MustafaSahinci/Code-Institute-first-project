@@ -408,6 +408,7 @@ footer {
         margin: 0 auto;
         text-align: center;
         background-color: rgba(0, 0, 0, .7);
+        width: 100%;
     }
 
     .contact{
@@ -534,11 +535,19 @@ footer {
 
     .trial{
         background-color: rgba(0, 0, 0, .7);
+        width: 100%;
+        text-align: center;
+        font-size: 50%;
     }
 
     .btimage{
-        height: 500pxf;
+        height: 250px;
     }
+
+    .maps{
+        width: 100%;
+    }
+
 }
 /* for medium screen sizes from 410px wide and down */
 @media screen and (max-width: 410px) {
