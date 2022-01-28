@@ -403,6 +403,7 @@ footer {
 
 .ctext {
     width: 100%;
+    padding: 10px 0;
 }
 
 .rtext {
@@ -415,5 +416,12 @@ footer {
 @media screen and (max-width: 600px) {
     .head{
         font-size: 67%;
+    }
+}
+
+/* for medium screen sizes from 410px wide and down */
+@media screen and (max-width: 410px) {
+    .head{
+        font-size: 60%;
     }
 }
