@@ -338,11 +338,24 @@ footer {
 }
 
 /* media queries */
-/* for media-queries from 1150px wide and down */
-@media screen and (max-width: 1150px){
+/* for media-queries from 1200px wide and down */
+@media screen and (max-width: 1200px){
+    .sm {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .ms {
+        width: 100%;
+        padding: 30px 0;
+    }
 
-/* for medium screen sizes from 800px wide and down */
-@media screen and (max-width: 800px) {
+    .bimage{
+        height: 1300px;
+    }
+}
+/* for small screen sizes from 900px wide and down */
+@media screen and (max-width: 900px) {
 .hero-outer{
     max-width: 100%;
     height: 400px;
@@ -357,17 +370,18 @@ footer {
 .menu {
     clear: left;
     float: left;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    line-height: 25px;
+    margin-left: 40px;
+    line-height: 1px;
 }
 
 .head {
-    font-size: 65%;
+    height: 100px;
+    background-color: black;
 }
 
 .cover-text{
     font-size: 65%;
+    left: 0;
 }
 
 .sm {
@@ -395,8 +409,11 @@ footer {
     width: 100%;
 }
 
-
-
 }
-/* for medium screen sizes from 800px wide and down */
-@media screen and (max-width: px) {
+
+/* for medium screen sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
+    .head{
+        font-size: 67%;
+    }
+}
