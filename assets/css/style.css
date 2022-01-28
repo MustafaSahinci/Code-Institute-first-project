@@ -422,6 +422,10 @@ footer {
 /* for medium screen sizes from 410px wide and down */
 @media screen and (max-width: 410px) {
     .head{
-        font-size: 50%;
+        font-size: 45%;
+    }
+
+    .cover-text{
+        font-size: 30%;
     }
 }
