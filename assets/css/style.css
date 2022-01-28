@@ -176,7 +176,7 @@ h3 {
 
 /* history pages pictures and text */
 .top {
-    height: 620px;
+    height: 500px;
 }
 
 .center {
@@ -221,6 +221,7 @@ h3 {
     display: inline-block;
     padding-left: 200px;
     padding-top: 30px;
+    font-size: 130%;
 }
 
 .rtop {
@@ -229,6 +230,7 @@ h3 {
     float: right;
     padding-right: 200px;
     padding-top: 30px;
+    font-size: 130%;
 }
 
 /* Youtube Video */
