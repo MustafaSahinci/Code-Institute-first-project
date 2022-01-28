@@ -14,7 +14,6 @@ body {
 }
 
 /* Heading and logo */
-
 h1,
 h2,
 h3 {
@@ -32,7 +31,6 @@ h3 {
 }
 
 /* nav links */
-
 .menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -74,7 +72,6 @@ h3 {
     height: 800px;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 }
 
@@ -93,7 +90,6 @@ h3 {
 .cover-text h2 {
     color: #990012;
 }
-
 
 .join {
     border-radius: 15px;
@@ -124,10 +120,7 @@ h3 {
     background-attachment: fixed;
 }
 
-
-
 /* pictures and text content*/
-
 .sm {
     height: 500px;
     width: 500px;
@@ -172,7 +165,6 @@ h3 {
 }
 
 /* history pages pictures and text */
-
 .top {
     height: 620px;
 }
@@ -227,7 +219,6 @@ h3 {
     float: right;
     padding-right: 200px;
     padding-top: 30px;
-
 }
 
 /* Youtube Video */
@@ -246,7 +237,6 @@ h3 {
 }
 
 /* Form and contact */
-
 .form {
     width: 400px;
     height: 400px;
@@ -301,7 +291,6 @@ h3 {
 }
 
 /* trial */
-
 .trial {
     height: 400px;
     font-size: 150%;
@@ -317,12 +306,7 @@ h3 {
     top: 200px;
 }
 
-
-
-
-
 /* footer */
-
 footer {
     height: 130px;
     width: 100%;
@@ -346,9 +330,7 @@ footer {
 }
 
 /* media queries */
-
 /* for media-queries from 1150px wide and down */
-
 .sm {
     clear: right;
 }
