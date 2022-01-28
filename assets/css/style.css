@@ -88,11 +88,11 @@ h3 {
 .cover-text {
     width: 571px;
     height: 62px;
-    background-color: rgba(0, 0, 0, .1);
+    background-color: rgba(0, 0, 0, .5);
     font-size: 20px;
     padding-left: 30px;
     padding-top: 22px;
-    bottom: 175px;
+    bottom: 100px;
     left: 455px;
     position: sticky;
 }
@@ -339,10 +339,72 @@ footer {
 
 /* media queries */
 /* for media-queries from 1150px wide and down */
+@media screen and (max-width: 1150px){
+
+.hero-outer{
+    width: 100%;
+    height: 1200px;
+}
+
+.bimage{
+    width: 100%;
+    height: 1200px;
+}
+
 .sm {
     clear: right;
+    width: 100%;
 }
 
 .ms {
     clear: left;
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+}
+
+}
+
+/* for medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+.hero-outer{
+    width: 100%;
+    height: 1200px;
+}
+
+.hero-image{
+    width: 100%;
+}
+    
+.bimage{
+    width: 100%;
+    height: 1200px;
+}
+
+
+.menu {
+    clear: left;
+    float: left;
+}
+
+.head {
+    font-size: 60%;
+}
+
+.cover-text{
+    font-size: 60%;
+}
+
+.sm {
+    width: 100%;
+    float: left;
+}
+
+.ms {
+    float: left;
+    width: 100%;
+}
+
 }
