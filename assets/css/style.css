@@ -333,6 +333,10 @@ footer {
     color: #990012;
 }
 
+.social-networks:hover i:hover {
+    color: white;
+}
+
 /* media queries */
 /* for media-queries from 1150px wide and down */
 .sm {
