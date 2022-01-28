@@ -135,6 +135,12 @@ h3 {
     height: 700px;
 }
 
+.btimage{
+    background: url(../images/lfc.jpg) no-repeat center center;
+    width: 100%;
+    height: 900px;
+}
+
 /* pictures and text content*/
 .sm {
     height: 500px;
@@ -527,6 +533,13 @@ footer {
         font-size: 180%;
     }
 
+    .trial{
+        background-color: rgba(0, 0, 0, .7);
+    }
+
+    .btimage{
+        height: 500pxf;
+    }
 }
 
 /* for medium screen sizes from 410px wide and down */
