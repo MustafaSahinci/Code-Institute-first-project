@@ -513,6 +513,7 @@ footer {
     .cover-text{
         font-size: 30%;
     }
-
-
+    .menu{
+        font-size: 180%;
+    }
 }
