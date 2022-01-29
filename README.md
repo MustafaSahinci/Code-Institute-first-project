@@ -27,21 +27,55 @@ for the live site click
 - On a smaller screen the menu on the right side is positioned under the logo
 ![Small nav bar](docs/small-nav.jpg)
 
-## Home page
+## Hero image
 - Hero image
   - The hero image is a picture that is the same on every page
-  - On the Home and About pages the overlaying text says: Sign up your child! whit a button Join now! that turns white when you hover over it.
+  - On the Home and About pages the overlaying text says: Sign up your child! with a button Join now! that turns white when you hover over it.
   - On the Sign-up page the overlaying text says: Sing up your child here with 3 down-arrows
 
 ![hero image](docs/hero.jpg)
 
-- Home page
-  - the home page has an background-image, this image is same on all the pages
+## Home page
+  - The home page has a background image, this image is the same on all the pages
   - The home page includes two pictures of the two greatest players of Liverpool from this time. So the parents can look and fantasize about their child becoming as good as these players.
   - The header is to convince the parents
   - The 3 inline-block's are also for convincing the parents, and showing what this club has to offer
 
 ![home page](docs/home.jpg)
+
+## Footer
+-  The footer section includes links to the relevant social media sites for Liverpool F.c Academy 
+- The links will open to a new tab to allow easy navigation for the user
+- Then you hover over it the color change to white
+- The footer is valuable to the user as it encourages them to keep connected via social media
+
+![footer](docs/footer.jpg)
+
+## About
+- The about section offers information about the academy and the club
+- First, there is a video to watch, and the video shows what you can expect from the academy
+- There is a picture of Anfield with information underneath, this is to show our big stadium
+- There is a picture of our trophies with information underneath, this picture shows how much Liverpool has won in the past, and what we can win in the future.
+- There is a picture of our fans with information underneath, this shows how loved our club is.
+- There is a picture from our song with information underneath, this song has been sung since the early 1960s
+
+![about](docs/about.jpg)
+
+## Sign-Up
+- The sign-up section is for registering your child and location information
+- There is a form where you can choose between boy and girl, then your Full name, email, phone number, and age of your child
+- when you hover over the sign up button the background change to white
+- everything in the form is required, you must fill everything in.
+- when you press the sign up button you go to the trial page
+- on the right side there is information saying sign up your child and we will contact you
+- and google maps with the location of our academy underneath
+
+![sign-up](docs/sign-up.jpg)
+
+## Trial
+- The trial page comes after you filled in the form and press Sign Up, and it shows text with congratulations
+
+![trial](docs/trial.jpg)
 
 
   
