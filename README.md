@@ -77,6 +77,19 @@ for the live site click
 
 ![trial](docs/trial.jpg)
 
+# Future Features
+This is a website with great future opportunities. here are a few options.
+
+- News page about the academy and club
+- Gallery page
+- Teams page with all the academy teams
+- Fixtures page
+- tickets page 
+- shop page
+
+# Typography and color scheme
+
+
 
   
 
