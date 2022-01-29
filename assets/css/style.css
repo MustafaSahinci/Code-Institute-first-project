@@ -450,15 +450,18 @@ footer {
 .sm {
     width: 100%;
     padding: 0;
+    height: 300px;
 }
 
 .ms {
     width: 100%;
     padding: 30px 0;
+    height: 300px;
 }
 
 .htext {
-    height: 390px;
+    height: 100px;
+    padding: 500px 0 0 0;
 }
 
 .ltext {
