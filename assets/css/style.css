@@ -74,7 +74,7 @@ h3 {
 .hero-image {
     width: 100%;
     height: 800px;
-    background: url(../images/herolfc1.jpg) no-repeat center center;
+    background: url(../images/herolfc2.jpg) no-repeat center center;
     background-position: 0px 75px;
 }
 
@@ -117,26 +117,26 @@ h3 {
 
 /* Background image*/
 .bimage {
-    background: url(../images/lfc1.jpg) no-repeat center center;
+    background: url(../images/lfc2.jpg) no-repeat center center;
     width: 100%;
     height: 1080px;
 }
 
 .bhimage {
-    background: url(../images/lfc1.jpg) no-repeat center center;
+    background: url(../images/lfc2.jpg) no-repeat center center;
     width: 100%;
     height: 1840px;
     background-attachment: fixed;
 }
 
 .bsimage {
-    background: url(../images/lfc1.jpg) no-repeat center center;
+    background: url(../images/lfc2.jpg) no-repeat center center;
     width: 100%;
     height: 700px;
 }
 
 .btimage{
-    background: url(../images/lfc1.jpg) no-repeat center center;
+    background: url(../images/lfc2.jpg) no-repeat center center;
     width: 100%;
     height: 900px;
 }
