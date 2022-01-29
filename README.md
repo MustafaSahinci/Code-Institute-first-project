@@ -99,6 +99,54 @@ Wireframes are made with balsamiq
 ![3](docs/wireframes.png)
 ![4](docs/wireframet.png)
 
+# Technology
+- HTML5
+- CSS3
+- Google Fonts
+- TinyPng 
+- Font Awesome
+- Gitpod
+- Github
+
+# testing
+ The Site is tested on Google Chrome, Windows Edge, and firefox.
+<br>The site is responsive on all devices, tested with Chrome Developer tool
+<br>The form is working and you can't click Sign Up before you filled everything in because it is all required
+<br>All the links are working
+
+ ## Lighthouse
+ Lighthouse destkop
+
+![lighthouse destkop](docs/lighthousee.jpg)
+
+Lighthouse mobile
+
+![lighthouse mobile](docs/Lighthousem.jpg)
+
+## html and css validator
+![html validator index](docs/validator-index.jpg)
+![html validator about](docs/validator-about.jpg)
+![html validator sign-up](docs/validator-signup.jpg)
+![css validator](docs/validatecss.jpg)
+
+## Bugs
+- I had bugs during positioning because I didn't know about grid or flexbox, eventually everything is fixed and the next time with grid and flexbox it's gonna be easier.
+- And I had bugs Testing the responsiveness, my nav bar overlapped the logo and my social media links overlapped each other this is fixed by changing the heights.
+
+- no bugs left
+
+# Deployment
+This website was deployed to GitHub pages :
+
+1. in gitpod you type git add . in the terminal
+2. I type git commit -m "comment"
+3. I type git push
+
+1. In the GitHub repo I click on settings tab
+2. then choose pages in the side bar 
+3. Once I chose the main Branch the page provided the link to the completed website.
+
+# Credits
 
 
   
