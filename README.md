@@ -88,6 +88,16 @@ This is a website with great future opportunities. here are a few options.
 - shop page
 
 # Typography and color scheme
+I used google fonts, and choose josefin sans for the paragraphs and sora for the heading. <br>
+The colors chosen are the colors of Liverpool F.C Red, Black, and white
+
+# Wireframes
+Wireframes are made with balsamiq
+
+![1](docs/wireframeh.png)
+![2](docs/wireframea.png)
+![3](docs/wireframes.png)
+![4](docs/wireframet.png)
 
 
 
