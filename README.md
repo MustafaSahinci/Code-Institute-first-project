@@ -146,8 +146,14 @@ This website was deployed to GitHub pages :
 2. then choose pages in the side bar 
 3. Once I chose the main Branch the page provided the link to the completed website.
 
-# Credits
-
+# Credits to
+- Code institute slack community
+- my mentor Rohit Sharma
+## Media
+- google for the pictures
+- youtube for the video
+- google maps for the iframe
+- fonts from font awesome
 
   
 
