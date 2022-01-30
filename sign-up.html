@@ -58,10 +58,10 @@
                 <input class="input" type="email" name="user_email" id="email" required>
 
                 <label for="tel">Phone Number</label>
-                <input class="input" type="tel" name="user_tel" id="tel" required>
+                <input class="input" type="tel" name="user_tel" id="tel" minlength="11" placeholder="44........." required>
 
-                <label for="age">Age Child</label>
-                <input class="input" type="number" name="child_age" id="age" required>
+                <label for="age">Age Child from 5 to 14</label>
+                <input class="input" type="number" name="child_age" id="age" min="5" max="14" required>
 
                 <input class="button" type="submit" value="Sign Up">
             </fieldset>

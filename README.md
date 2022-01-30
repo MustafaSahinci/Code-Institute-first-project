@@ -100,13 +100,19 @@ Wireframes are made with balsamiq
 ![4](docs/wireframet.png)
 
 # Technology
+I used Git for version control, using the terminal to commit to Git and Push to GitHub.<br>
+I used GitHub to store the projects code after being pushed from Git.<br>
+And I used Chrome Developer Tool to edit my css in real time.
+
 - HTML5
 - CSS3
 - Google Fonts
 - TinyPng 
 - Font Awesome
+- Git
 - Gitpod
 - Github
+- Chrome Developer tool
 
 # testing
  The Site is tested on Google Chrome, Windows Edge, and firefox.
@@ -138,10 +144,16 @@ Lighthouse mobile
 # Deployment
 This website was deployed to GitHub pages :
 
-1. in gitpod you type git add . in the terminal
-2. I type git commit -m "comment"
-3. I type git push
+## gitpod
+1. In gitpod workspaces
+2. I choose the right workspace/repo
+3. Now i can write my code and readme
+4. To open my site I type : python3 -m http.server , in the terminal
+5. To save my code i Type in the terminal : git add .
+6. I type git commit -m "comment"
+7. I type git push to push it to github
 
+## github
 1. In the GitHub repo I click on settings tab
 2. then choose pages in the side bar 
 3. Once I chose the main Branch the page provided the link to the completed website.
