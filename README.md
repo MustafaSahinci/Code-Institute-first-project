@@ -173,6 +173,7 @@ This website was deployed to GitHub pages :
 # Credits to
 - Code institute slack community
 - my mentor Rohit Sharma
+- love running project
 ## Media
 - google for the pictures
 - youtube for the video
