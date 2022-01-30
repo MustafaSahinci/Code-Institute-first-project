@@ -46,7 +46,7 @@ for the live site click
 ## Footer
 -  The footer section includes links to the relevant social media sites for Liverpool F.c Academy 
 - The links will open to a new tab to allow easy navigation for the user
-- Then you hover over it the color change to white
+- When you hover over it the color change to white
 - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![footer](docs/footer.jpg)
