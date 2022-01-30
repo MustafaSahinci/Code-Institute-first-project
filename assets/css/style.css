@@ -397,6 +397,10 @@ footer {
     .lcenter {
         padding: 0;
     }
+
+    .cover-text{
+        left: 150px;
+    }
 }
 
 /* for media-queries from 1100px wide and down */
