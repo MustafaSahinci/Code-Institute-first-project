@@ -6,6 +6,7 @@ Users of this website will be able to find information about the training facili
 ![Am I Responsive](docs/responsive.jpg)
 for the live site click
 <a src=https://mustafasahinci.github.io/Code-Institute-first-project/index.html target="_blank" rel="noopener" > here</a>
+[Markdown - Link](#https://mustafasahinci.github.io/Code-Institute-first-project/index.html)
 
 # 2. user stories
 - as visiting user, I would like to find my way through the website with an easy nav bar
@@ -100,19 +101,17 @@ Wireframes are made with balsamiq
 ![4](docs/wireframet.png)
 
 # Technology
-I used Git for version control, using the terminal to commit to Git and Push to GitHub.<br>
-I used GitHub to store the projects code after being pushed from Git.<br>
-And I used Chrome Developer Tool to edit my css in real time.
+These are the Technology I used for this project.
 
-- HTML5
-- CSS3
+- HTML5 for markup
+- CSS3 for style
 - Google Fonts
 - TinyPng 
 - Font Awesome
-- Git
+- Git for version control, using the terminal to commit to Git and Push to GitHub
 - Gitpod
-- Github
-- Chrome Developer tool
+- Github to store the projects code after being pushed from Git
+- Chrome Developer tool to edit my css in real time
 
 # testing
  The Site is tested on Google Chrome, Windows Edge, and firefox.
