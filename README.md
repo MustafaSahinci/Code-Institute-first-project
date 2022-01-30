@@ -131,7 +131,21 @@ Lighthouse mobile
 ![html validator index](docs/validator-index.jpg)
 ![html validator about](docs/validator-about.jpg)
 ![html validator sign-up](docs/validator-signup.jpg)
-![css validator](docs/validatecss.jpg)
+![css validator](docs/validatecss.jpg).
+
+## test cases
+### Home page
+On the home page, everything is well positioned, and every link works
+### About page
+On the about page everything is well positioned, the video is working and all the links are working
+### Sign-Up page
+On the Sign-Up page, everything is well-positioned, Google maps is working and the form is required,
+The user must fill in everything,
+- if he doesn't choose boy or girl he gets a warning to choose 1 option
+- if he doesn't fill in the name and click Sign up then gets a warning
+- if he doesn't fill in the email correctly he gets a warning 
+- the phone number must be 11 digits long en there is a placeholder that begins with 44
+- the age must be between 5 and 14 
 
 ## Bugs
 - I had bugs during positioning because I didn't know about grid or flexbox, eventually everything is fixed and the next time with grid and flexbox it's gonna be easier.
