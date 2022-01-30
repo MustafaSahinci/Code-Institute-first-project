@@ -367,13 +367,15 @@ footer {
 /* for media-queries from 1200px wide and down */
 @media screen and (max-width: 1200px){
     .sm {
-        width: 100%;
+        width: 90%;
         padding: 0;
+        margin-left: 5%;
     }
     
     .ms {
-        width: 100%;
+        width: 90%;
         padding: 30px 0;
+        margin-right: 5%;
     }
 
     .bimage{
@@ -409,6 +411,10 @@ footer {
         text-align: center;
         background-color: rgba(0, 0, 0, .7);
         width: 100%;
+    }
+
+    .input {
+        width: 95%;
     }
 
     .contact{
@@ -448,13 +454,15 @@ footer {
 }
 
 .sm {
-    width: 100%;
+    width: 90%;
+    margin-left: 5%;
     padding: 0;
     height: 300px;
 }
 
 .ms {
-    width: 100%;
+    width: 90%;
+    margin-right: 5%;
     padding: 30px 0;
     height: 300px;
 }
@@ -478,7 +486,7 @@ footer {
 }
 
 .video {
-    width: 100%;
+    width: 90%;
 }
 
 }
@@ -517,19 +525,27 @@ footer {
     }
 
     .ltop {
-        width: 100%;
+        width: 90%;
+        margin-left: 5%;
+        text-align: center;
     }
 
     .rtop {
-        width: 100%;
+        width: 90%;
+        margin-right: 5%;
+        text-align: center;
     }
 
     .lcenter {
-        width: 100%;
+        width: 90%;
+        margin-left: 5%;
+        text-align: center;
     }
 
     .rcenter {
-        width: 100%;
+        width: 90%;
+        margin-right: 5%;
+        text-align: center;
     }
 
     .menu{
@@ -549,7 +565,7 @@ footer {
     }
 
     .maps{
-        width: 100%;
+        width: 90%;
     }
 
 }
