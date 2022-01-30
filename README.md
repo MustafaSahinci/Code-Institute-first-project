@@ -5,8 +5,7 @@ Users of this website will be able to find information about the training facili
 
 ![Am I Responsive](docs/responsive.jpg)
 for the live site click
-<a src=https://mustafasahinci.github.io/Code-Institute-first-project/index.html target="_blank" rel="noopener" > here</a>
-[Markdown - Link](#https://mustafasahinci.github.io/Code-Institute-first-project/index.html)
+[here](https://mustafasahinci.github.io/Code-Institute-first-project/index.html)
 
 # 2. user stories
 - as visiting user, I would like to find my way through the website with an easy nav bar
